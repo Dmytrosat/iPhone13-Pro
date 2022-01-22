@@ -32,7 +32,3 @@ const scrollFunc = () => {
 
 scrollFunc()
 
-
-
-
-
